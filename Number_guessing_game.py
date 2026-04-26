@@ -1,3 +1,5 @@
+#This is the number guessing game where you have to guess the computer generated number based on the difficulty.
+
 import random
 
 difficulty = input("Choose a difficulty 1 to 4. 4 is the hardest: ")
